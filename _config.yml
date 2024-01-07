@@ -83,11 +83,11 @@ author:
   name             : "Anantha Krishnan Sunilkumar"
   avatar           : "profile.png"
   bio              : "I aspire to improve the understanding on quantum correlations of importance to Quantum information science and foundations, from the answers on its nature, to answering the emerging quantum technology, using theoretical and computational techniques with a holistic nature."
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  location         : "Kerala, India."
+  employer         : "IISER Thiruvananthapuram"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  email            : "readatanantha@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ananthrishna"
   google_plus      :
   keybase          :
   instagram        :

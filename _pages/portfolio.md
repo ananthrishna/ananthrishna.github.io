@@ -1,4 +1,9 @@
-
+---
+layout: archive
+title: "Portfolio"
+permalink: /Portfolio/
+author_profile: true
+---
 
 I aspire to understand Quantum correlations through Quantum Information science of importance to its foundational nature \& emergent technology, using theoretical physics \& machine learning. Working on Quantum Networks introduced me to the depth of nonlocal correlations and I found a great deal of interest in the limits of Classical and Quantum distributions. Having done multiple projects, I am proficient in using computational methodologies especially machine learning in problems of Quantum Information and Quantum Foundations. I love programming, so I feel quite comfortable doing it. I am also interested in Computational Biology and Theoretical Neuroscience. I like creating interesting simulation sandboxes like Prey Predator Models and Swarmalators to understand how seemingly simple rules can give rise to complex phenomena.
 

@@ -5,10 +5,10 @@ main:
     url: /files/CV.pdf
 
   - title: "Portfolio"
-    url: /portfolio/
+    url: /Portfolio/
 
   - title: "Publications"
-    url: /publications/
+    url: /Publications/
 
 
 

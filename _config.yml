@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anantha's Portfolio"
+title                    : "Anantha's Homepage"
 title_separator          : "-"
 name                     : &name "Anantha Krishnan"
 description              : &description "Finding my Ikigai through my passion for research in Quantum Information Science & Coding"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anantha Krishnan Sunilkumar"
   avatar           : "profile.png"
-  bio              : "I aspire to improve the understanding on quantum correlations of importance to Quantum information science and foundations, from the answers on its nature, to answering the emerging quantum technology, using theoretical and computational techniques with a holistic nature."
+  bio              : "Finding my Ikigai through my passion for research in Quantum Information Science & Coding"
   location         : "Kerala, India."
   employer         : "IISER Thiruvananthapuram"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

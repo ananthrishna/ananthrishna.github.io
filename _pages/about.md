@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#### About Me
+### About Me
 
 My name is Anantha Krishnan, I got my bachelor’s and master’s dual degree from the Indian Institute of Science Education and Research Thiruvananthapuram with strong expertise in Quantum Information Theory and Machine Learning. I am currently working as a Research Student with Prof.Anil Shaji, complementing both analytical techniques & machine learning towards understanding Quantum Network Nonlocality. 
 
@@ -23,7 +23,7 @@ Selected Experiences
 ======
 
 ### Quantum Network Nonlocality without inputs using Neural Network Oracle (Ongoing) IISER TVM, Kerala, India 
-• Working with Prof. Anil Shaji and Dr. Debashis Saha on Quantum Information Theory and Quantum Foundations from a Machine learning standpoint & was awarded the Chanakya Fellowship (I-HUB QTF) under the National Mission on Interdisciplinary Cyber Physical Systems, of the Department of Science and Technology, Govt. of India 
+• Working with **Prof. Anil Shaji** and **Dr. Debashis Saha** on Quantum Information Theory and Quantum Foundations from a Machine learning standpoint & was awarded the Chanakya Fellowship (I-HUB QTF) under the National Mission on Interdisciplinary Cyber Physical Systems, of the Department of Science and Technology, Govt. of India 
 • Master Thesis Defense (2023) - I have found the best measurement setting for maximal nonlocality for X states & a convenient model in complex multipartite domains. I am in the process of publishing my results. 
 
 ### "Superadditivity of Coherent Information in Noisy Quantum Channels"(2022) IISER TVM, Kerala, India 

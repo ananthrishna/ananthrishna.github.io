@@ -1,14 +1,25 @@
 # main links links
 main:
 
-  - title: "CV"
+  - title: "Curriculum Vitae"
     url: /files/CV.pdf
 
-  - title: "Portfolio"
+  - title: "Statement of Purpose"
     url: /Portfolio/
 
   - title: "Publications"
     url: /Publications/
+
+  - title: "Coursework, Workshops and Conferences"
+    url: /School/
+
+  - title: "Research Blog"
+    url: /Research/
+
+  - title: "Personal Blog"
+    url: /Personal/
+
+
 
 
 

@@ -5,6 +5,16 @@ permalink: /Publications/
 author_profile: true
 ---
 
+#### Conference Papers
+
+
+#### Publications/Manuscript
+
+
+
+% Masters Thesis
+
+
 Quantum Network Nonlocality with X States
 ======
 A manuscript based on the work done is being prepared, for updates, please check here.

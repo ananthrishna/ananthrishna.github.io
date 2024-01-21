@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Anantha Krishnan Sunilkumar"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Finding myself through science, art, travelling, gaming and more. Deeply passionate about research in Quantum Information Science, using the lens of Theoretical Physics, Mathematics & Machine Learning."
   location         : "Kerala, India."
   employer         : "IISER Thiruvananthapuram"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ananthrishna"
+  github           : "https://github.com/ananthrishna"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/anantha-krishnan-s-563536255"
+  orcid            : "https://orcid.org/0009-0005-4897-8459"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/Ananthrishna"
   vine             :
   weibo            :
   xing             :

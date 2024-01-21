@@ -8,9 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-My name is Anantha Krishnan, I got my bachelor's and master's dual degree from the Indian Institute of Science Education and Research Thiruvananthapuram with strong expertise in Quantum Information Theory and Machine Learning in July 2023. I am currently working as a Research Student with Dr.Anil Shaji, complementing both analytical \& computational techniques on researching Quantum Network Nonlocality.
+About Me
+======
+My name is Anantha Krishnan, I got my bachelor’s and master’s dual degree from the Indian Institute of Science Education and Research Thiruvananthapuram with strong expertise in Quantum Information Theory and Machine Learning. I am currently working as a Research Student with Prof.Anil Shaji, complementing both analytical techniques & machine learning towards understanding Quantum Network Nonlocality. 
 
-I aspire to improve the understanding on quantum correlations of importance to Quantum information science, from the answers on its foundational nature, to answering emerging quantum technology, using theoretical and computational techniques in a holistic nature.
+I aspire to understand nonclassical correlations of quantum systems, ultimately seeking a measure using theoretical physics & machine learning. 
+
+I am interested in the Quantum causal structure approaches to study these correlations, and I have been studying the special case of Quantum Causal Networks, making use of LHV-Neural networks as a witness for non-classical correlations. 
+
+Also for this goal, I am also looking into quantum enhanced simulation techniques and machine learning to bridge the classical computational intractabilty when learning these quantum systems. 
+
 
 Selected Experiences
 ======
@@ -22,6 +29,29 @@ Awards
 ======
 I was also awarded the Chanakya Fellowship by I-HUB QTF National Mission on Interdisciplinary Cyber Physical Systems, of the Department of Science and Technology, Govt. of India for my project on Quantum Technologies.
 
-Skills
-------
+### Skills
 
+Data Science & Programming 
+• Machine Learning Algorithms - Neural Networks, SVMs, KNN, Random Forest. • Languages - Python, JS, C. 
+• Statistical analysis - Regression Models, ANOVA, Chi squared tests, Bayesian Models. 
+• Data Visualization - Sympy(symbolic), Scipy, Matplotlib, Seaborn, Plotly, Obsidian, Mindmaps. 
+• High-performance computing and Parallel computing - IISER TVM HPC cluster-link, MPI, slurm batch scripting, ensemble modelling. 
+• WebUI Development(NodeJS & flask) & NLP Intent Recognition 
+• Optimisation - Gradient descent, Metaheuristic algorithms (PSO, GA), Simulated Annealing, Bayesian optimisation. 
+
+Scientific Computing and Quantum Simulation 
+• Qiskit 
+• Quantum Algorithms - VQE, QPE, QFT, etc 
+• Rigid strategies for Bell and Network Non classical correlations 
+• Neural Network Architecture - Restricted Bolztmann NN ansatz, Nonlocality witness. 
+• Scientific packages & techniques - TensorFlow, MatLab, Mathematica, R 
+• QuTip Quantum Channels and Density States 
+• Perturbation theory, Variaotional methods, Adiabatic Approximation, DFT, Path Integral Formulation, Quantum MonteCarlo Methods 
+• Solving PDEs (Shooting, Relaxation methods - Guass Seidel Algorithm) 
+
+Software skills 
+• Experienced in Adobe Photoshop, Adobe Lightroom, MS Office, Origin Pro, and Blender. 
+• Image processing and Curve fitting in Biological and Chemical systems. 
+• Biological and Chemical system illustration using Blender 
+• Experienced in using finesse and Pygwinc packages and used it in a project in Build a Detector Workshop, LIGO-India 
+• Intel One API, MPI, SLurm batch script, GCC

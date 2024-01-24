@@ -12,7 +12,7 @@ redirect_from:
 
 My name is Anantha Krishnan, I got my bachelor’s and master’s dual degree from the Indian Institute of Science Education and Research Thiruvananthapuram with strong expertise in Quantum Information Theory and Machine Learning. I am currently working as a Research Student with Prof.Anil Shaji, complementing both analytical techniques & machine learning towards understanding Quantum Network Nonlocality. 
 
-I aspire to understand nonclassical correlations of quantum systems, ultimately seeking a measure using theoretical physics & machine learning. 
+I aspire to understand quantum systems and their correlations that makes them so special, I am experienced and I enjoy complementing theoretical physics & machine learning in my research.
 
 I am interested in the Quantum causal structure approaches to study these correlations, and I have been studying the special case of Quantum Causal Networks, making use of LHV-Neural networks as a witness for non-classical correlations. 
 

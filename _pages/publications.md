@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Masters thesis"
-permalink: /files/MastersThesis
+title: "Publications"
+permalink: /Publications/
 author_profile: true
 ---
 

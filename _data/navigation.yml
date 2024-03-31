@@ -19,10 +19,11 @@ main:
   - title: "Personal Blog"
     url: /Personal/
 
-  - title: "Masters thesis"
-    url: /files/MastersThesis
+  - title:"Masters thesis" 
+    url: /files/MastersThesis/
 
-
+  - title:"Minor thesis" 
+    url: /files/MinorThesis/
 
 
 Comment: >

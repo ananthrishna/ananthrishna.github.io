@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /Publications/
+title: "Minor thesis"
+permalink: /files/MinorThesis
 author_profile: true
 ---

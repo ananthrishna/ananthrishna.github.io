@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Masters thesis"
+permalink: /files/MastersThesis
+author_profile: true
+---
+
 ### Masters Thesis - Quantum Network Nonlocality
 
 Abstract

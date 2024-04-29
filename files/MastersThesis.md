@@ -9,6 +9,18 @@ author_profile: true
 
 Abstract
 
-Witnessing nonlocal correlations lies at the core of the foundational aspects of quantum mechanics, and such correlations have huge applications in information processing. In the case of simple bipartite quantum systems, we can achieve this by using Bell inequalities. But as soon as the scenario grows in complexity, relying on the Bell inequalities becomes unfeasible. This is where machine learning can provide an alternative for detecting and quantifying non-locality. Since machine learning structures such as neural networks are classical, it is possible to show if a quantum distribution is nonlocal or not by letting the machine learn it and make it reproduce the distribution, i.e. we are using classical resources to reproduce an observed probability distribution that arises from measurements on a quantum state. If the distribution is local, the machine can learn it; if nonlocal the machine can't reproduce it, and we can try to use this disparity to create a measure for nonlocality. We are focusing on the triangle case of nonlocality which was proposed by Renou_2019 which shows a novel kind of nonlocality that does not require measurement inputs, unlike the standard Bell nonlocality. 
+Two projects are part of this Masters thesis
+
+Quantum Networks, Genuine Network Nonlocality and LHV Neural Networks: 
+This is my own journey through this domain, understanding and exploring the various intricacies that quantum networks give rise to that are disjoint from an origin in Standard Bell Nonlocality. This is also where I realised that designing machines and methods combining Analytical methodologies and Machine Learning numerics holistically help us view and study these systems with greater
+depths of understanding. An abstract of this provided in the preface of this report.
+
+The Best Measurement Settings and Quantum Resources for Witnessing Genuine Nonlocality in the Triangle Quantum Network: 
+
+The research carried out as part of the thesis on Quantum Networks lead to my own contribution in this domain. This was an exciting experience to learn and apply my experience in Quantum Information theory and Machine Learning. Here is an abstract of the part of this masters thesis which is currently in works of being published.
+
+Nonlocal correlations lie at the core of quantum foundations, and distributions displaying them are of great importance in applications of information processing. Unlike quantum systems with a convex local boundary, the nonlocality without inputs in networks is of particular interest as it deviates from the standard bell inequality violation criteria. Nonlocality being a correlation that can’t be reproduced by a classical structure, machine learning with classical sources was later introduced as a counter test for the same. These works were particular to bell states; we are expanding on this work with X states and joint entangled measurements. Consequently, we have observed the measurement choices for X states with two-parameter entangled Bell state measurements, which can be almost confidently extrapolated to all two qubit quantum sources capable of showing recognizable nonlocal correlations. Then we further categorized the states showing higher nonlocal correlations and their respective measurement range. We backed up our results with noise robustness of these nonlocal distributions and their further analyses. We also came across and further explored whether a triangle network can produce nonlocal correlation with just entangled measurements on classically correlated states and analytically proved that we cannot. Exploring this new domain of nonlocality will give us glimpses into the defining principles of quantum nonlocality and its wide applications.
+
+
 
 [Download PDF](/files/Master's%20Thesis.pdf)

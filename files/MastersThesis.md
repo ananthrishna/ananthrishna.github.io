@@ -12,8 +12,7 @@ Abstract
 Two projects are part of this Masters thesis
 
 Quantum Networks, Genuine Network Nonlocality and LHV Neural Networks: 
-This is my own journey through this domain, understanding and exploring the various intricacies that quantum networks give rise to that are disjoint from an origin in Standard Bell Nonlocality. This is also where I realised that designing machines and methods combining Analytical methodologies and Machine Learning numerics holistically help us view and study these systems with greater
-depths of understanding. An abstract of this provided in the preface of this report.
+This is my own journey through this domain, understanding and exploring the various intricacies that quantum networks give rise to that are disjoint from an origin in Standard Bell Nonlocality. This is also where I realised that designing machines and methods combining Analytical methodologies and Machine Learning numerics holistically help us view and study these systems with greater depths of understanding. An abstract of this provided in the preface of this report.
 
 The Best Measurement Settings and Quantum Resources for Witnessing Genuine Nonlocality in the Triangle Quantum Network: 
 The research carried out as part of the thesis on Quantum Networks lead to my own contribution in this domain. This was an exciting experience to learn and apply my experience in Quantum Information theory and Machine Learning. Here is an abstract of the part of this masters thesis which is currently in works of being published.

@@ -5,7 +5,13 @@ permalink: /Publications/
 author_profile: true
 ---
 
+<<<<<<< HEAD
 ## Conference Papers
+=======
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+>>>>>>> ab0b91f9427947f3fc539b0bf0ff932f59ab3666
 
 Poster presentation on Quantum Network Nonlocality using LHV-Neural Network Models - Presented at Frontier Symposium Physics 2024 at IISER Thiruvananthapuram, Kerala, India.
 

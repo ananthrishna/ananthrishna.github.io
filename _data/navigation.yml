@@ -1,5 +1,32 @@
 # main links links
 main:
+
+  - title: "CV"
+    url: /files/CV.pdf
+
+  - title: "Statement of Purpose"
+    url: /Portfolio/
+
+  - title: "Publications"
+    url: /Publications/
+
+  - title: "Coursework, Workshops and Conferences"
+    url: /School/
+
+  - title: "Research Blog"
+    url: /Research/
+
+  - title: "Personal Blog"
+    url: /Personal/
+
+  - title:"Masters thesis" 
+    url: /files/MastersThesis/
+
+  - title:"Minor thesis" 
+    url: /files/MinorThesis/
+
+
+Comment: >
   - title: "Publications"
     url: /publications/
 

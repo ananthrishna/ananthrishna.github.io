@@ -5,7 +5,7 @@ permalink: /Research/
 author_profile: true
 ---
 
-
+This is an old version
 
 I have had an exciting and diverse set of research experiences which I have outlined in my CV, of these, two of the most impactful projects for me were one in my fourth year, where I delved deeper into machine learning assisted physics research. I was fascinated by the workings of Neural networks and Random tree algorithms, which led me to take Data Science for my [Minor]; I soon went on to do my project with Dr. Nagaiah Chamakuri where we tried to find the [Quantum states that showed Superadditivity of Coherent Information when passed through a Noisy Quantum Channel]. This exposed me to a wide variety of scientific computing tools, meta-heuristic algorithms being one of them. The work I did here on metaheuristic algorithms, TensorFlow, and MPI parallelism helped me with my next project on using [Machine Learning for exploring non-locality in Quantum Networks without inputs] which was also my [Master's thesis]. Network structures that obey locality constraints can be matched using Neural networks because their Direct Acyclic Graphs match, using this it has been shown that a sufficiently trained neural network reproducing a nonlocal distribution can be a good witness for its nonlocality. We expanded on the existing research to combinations of Bell states forming X states with two parameter entangled joint measurements and we have found the best measurement choices for these X states and their pattern. I am currently in the process of publishing my results which can be checked in my \href{https://ananthrishna.github.io/}{portfolio}.
 

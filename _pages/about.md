@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-# <p style="text-align:center;">Hi I'm Anantha.</p>
+<p style="text-align:center;"># Hi I'm Anantha.</p>
 
 <p align="center">
-  <img src="https://github.com/ananthrishna/images/profile.jpg?raw=true" alt="Profile image"/>
+  <img src="images/profile.jpg?raw=true" alt="Profile image"/>
 </p>
 
 ### About Me

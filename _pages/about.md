@@ -20,9 +20,9 @@ My main research interest is on Learning, my exiting works revolve around using 
 </p>
 
 <tr>
-  <p style="text-align:center;">
-    [Research](/_pages/Research.md)$~~~$[Research](/_pages/Research.md)$~~~$[Research](/_pages/Research.md)
-  </p>
+<p style="text-align:center;">
+  [Research](/_pages/Research.md)$~~~$[Research](/_pages/Research.md)$~~~$[Research](/_pages/Research.md)
+</p>
 </tr>
 
 

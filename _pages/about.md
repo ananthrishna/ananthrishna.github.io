@@ -9,9 +9,10 @@ redirect_from:
 
 <p align="center">
   <img src="images/profile.jpg?raw=true" width='150' alt="Profile image"/>
+  <div style="border: 2px solid grey; border-radius: 50%; width: 100px; height: 100px;"></div>
 </p>
 
-<p style="text-align:center;font-size: 64px; color: black;">Hi I'm Anantha.</p>
+<p style="text-align:center;font-size: 56px;">Hi I'm Anantha.</p>
 
 
 ### About Me

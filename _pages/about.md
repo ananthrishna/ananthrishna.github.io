@@ -21,9 +21,7 @@ I'm a research scientist at the Quantum Information Theory(QIT) group at IISER(T
 <div class="col-md-offset-1">
   <div class="note note-info">
     <p style="text-align:center;">
-      <b>
-	[Research](/_pages/Research.md) &emsp [Research](/_pages/Research.md) &nbsp [Research](/_pages/Research.md)
-      </b>
+      <b>[Research](/_pages/Research.md) &emsp [Research](/_pages/Research.md) &nbsp [Research](/_pages/Research.md)</b>
     </p>
   </div>
 </div>
@@ -31,27 +29,19 @@ I'm a research scientist at the Quantum Information Theory(QIT) group at IISER(T
 
 
 
-
-
-
-<div>
-<div>
 <p style="text-align:center;">
 	
-{{% md %}}
-[Research](/_pages/Research.md) &emsp [Research](/_pages/Research.md) &nbsp [Research](/_pages/Research.md)
-{{% /md %}}
+{{% md %}}[Research](/_pages/Research.md){{% /md %}}
 
 </p>
-</div>
-</div>
 
 
-<div class="gallery" markdown=1>
+
+
+
 <p style="text-align:center;">
-[Research](/_pages/Research.md) &emsp [Research](/_pages/Research.md) &nbsp [Research](/_pages/Research.md)
+<div class="gallery" markdown=1>[Research](/_pages/Research.md)</div>
 </p>
-</div>
 
 
 ### Research Interest

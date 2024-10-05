@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Hi, I'm Anantha"
-excerpt: "About me"
+excerpt: "About me","Selected Experiences"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<p style="text-align:center;"># Hi I'm Anantha.</p>
+<p style="text-align:center;">Hi I'm Anantha.</p>
 
 <p align="center">
   <img src="images/profile.jpg?raw=true" alt="Profile image"/>

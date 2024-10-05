@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "Hi I'am Anantha"
 excerpt: "About me","Selected Experiences"
 author_profile: true
 redirect_from: 

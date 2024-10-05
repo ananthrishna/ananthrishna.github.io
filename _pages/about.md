@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align:center;">Hi I'm Anantha.</p>
+<p style="text-align:center;font-size: 16px; color: black;">Hi I'm Anantha.</p>
 
 
 <p align="center">

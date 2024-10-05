@@ -18,10 +18,8 @@ I'm a research scientist at the Quantum Information Theory(QIT) group at IISER(T
 </p>
 
 
-<p style="text-align:center;">
-  
-[Research](/_pages/Research.md)  [Research](/_pages/Research.md)  [Research](/_pages/Research.md)
-
+<br><p style="text-align:center;">
+  [Research](/_pages/Research.md) &emsp&emsp [Research](/_pages/Research.md)  [Research](/_pages/Research.md)
 </p>
 
 

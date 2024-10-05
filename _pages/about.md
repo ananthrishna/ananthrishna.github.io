@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align:center;font-size: 16px; color: black;">Hi I'm Anantha.</p>
-
-
 <p align="center">
-  <img src="images/profile.jpg?raw=true" width='100' alt="Profile image"/>
+  <img src="images/profile.jpg?raw=true" width='150' alt="Profile image"/>
 </p>
+
+<p style="text-align:center;font-size: 64px; color: black;">Hi I'm Anantha.</p>
+
 
 ### About Me
 

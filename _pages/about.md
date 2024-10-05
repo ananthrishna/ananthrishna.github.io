@@ -18,12 +18,15 @@ I'm a research scientist at the Quantum Information Theory(QIT) group at IISER(T
 </p>
 
 
-<br><p style="text-align:center;">
-  [Research](/_pages/Research.md) &emsp [Research](/_pages/Research.md) &nbsp [Research](/_pages/Research.md)
-</p>
-
-
-
+<div class="col-md-offset-1">
+	<div class="note note-info">
+    <p style="text-align:center;">
+      <b>
+			  [Research](/_pages/Research.md) &emsp [Research](/_pages/Research.md) &nbsp [Research](/_pages/Research.md)
+		  </b>
+    </p>
+	</div>
+</div>
 ### Research Interest
 
 I am deeply passionate about research in the interstice of Quantum Information Science, Mathematics and Machine Learning. My research aims to understand what a quantum theory could mean, what it could tell us about nature and how we can use that to build a quantum advantage with machine learning, new mathematical principles, and how it can help us understand complex quantum nature.

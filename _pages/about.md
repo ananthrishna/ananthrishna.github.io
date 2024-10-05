@@ -21,9 +21,7 @@ My main research interest is on Learning, my exiting works revolve around using 
 
 <tr>
   <p style="text-align:center;">
-    <pre>
-      [Research](/_pages/Research.md)    [Research](/_pages/Research.md)     [Research](/_pages/Research.md)
-    </pre>
+    [Research](/_pages/Research.md)$~~~$[Research](/_pages/Research.md)$~~~$[Research](/_pages/Research.md)
   </p>
 </tr>
 

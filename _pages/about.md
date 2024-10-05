@@ -37,7 +37,7 @@ I'm a research scientist at the Quantum Information Theory(QIT) group at IISER(T
 </p>
 
 <div class="gallery" markdown=1>
-~~~Image~~
+[Research](/_pages/Research.md) &emsp [Research](/_pages/Research.md) &nbsp [Research](/_pages/Research.md)
 </div>
 
 ### Research Interest

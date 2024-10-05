@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="images/profilenew.jpg?raw=true" width='200' alt="Profile image"/>
+  <img src="images/profilenew.jpg?raw=true" width='240' alt="Profile image"/>
 </p>
 
 <p style="text-align:center;font-size: 44px;">Hi I'm Anantha Krishnan (Thrish)</p>

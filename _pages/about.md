@@ -46,11 +46,13 @@ I'm a research scientist at the Quantum Information Theory(QIT) group at IISER(T
 </div>
 </div>
 
+
+<div class="gallery" markdown=1>
 <p style="text-align:center;">
-	<div class="gallery" markdown=1>
-	[Research](/_pages/Research.md) &emsp [Research](/_pages/Research.md) &nbsp [Research](/_pages/Research.md)
-	</div>
+[Research](/_pages/Research.md) &emsp [Research](/_pages/Research.md) &nbsp [Research](/_pages/Research.md)
 </p>
+</div>
+
 
 ### Research Interest
 

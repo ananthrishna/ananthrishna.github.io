@@ -12,7 +12,8 @@ redirect_from:
 </p>
 
 <p style="text-align:center;font-size: 44px;">Hi I'm Anantha Krishnan (Thrish).</p>
-
+ 
+ 
 
 ### About Me
 

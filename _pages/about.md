@@ -11,7 +11,7 @@ redirect_from:
   <img src="images/profilenew.jpg?raw=true" width='150' alt="Profile image"/>
 </p>
 
-<p style="text-align:center;font-size: 44px;">Hi I'm Anantha.</p>
+<p style="text-align:center;font-size: 44px;">Hi I'm Anantha Krishnan (Thrish).</p>
 
 
 ### About Me

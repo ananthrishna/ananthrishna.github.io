@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anantha's Homepage"
+title                    : "Portfolio"
 title_separator          : "-"
-name                     : &name "Anantha Krishnan"
-description              : &description "Finding my Ikigai through my passion for research in Quantum Information Science & Coding"
+name                     : &name "Anantha Krishnan Sunilkumar"
+description              : &description "Enjoying my path through my passion for research in Quantum Information Science & Learning"
 url                      : https://ananthrishna.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ananthrishna/ananthrishna.github.io"
@@ -81,9 +81,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anantha Krishnan Sunilkumar (Anantha)"
-  avatar           : "profile.jpg"
-  bio              : "An apprentice wondering what a quantum theory of nature could tell us and how it can bring quantum advantage into machines, math and in undertsanding nature itself."
+  name             : "Anantha Krishnan Sunilkumar"
+  avatar           : "profile.png"
+  bio              : "An apprentice of quantum physics through the eyes of information, wondering how foundation understanding can bring quantum advantage into machines, math and in undertsanding nature itself."
   location         : "Kerala, India."
   employer         : "IISER Thiruvananthapuram"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

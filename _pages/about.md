@@ -20,7 +20,9 @@ My main research interest is on Learning, my exiting works revolve around using 
 </p>
 
 <p style="text-align:center;">
-  <li>[Research](/_pages/Research.md)    [Research](/_pages/Research.md)     [Research](/_pages/Research.md)</li>  
+<pre>
+<li>[Research](/_pages/Research.md)    [Research](/_pages/Research.md)     [Research](/_pages/Research.md)</li>  
+</pre>
 </p>
 
 ### Research Interest

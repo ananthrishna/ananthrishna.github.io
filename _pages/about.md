@@ -9,8 +9,9 @@ redirect_from:
 
 <p style="text-align:center;">Hi I'm Anantha.</p>
 
+
 <p align="center">
-  <img src="images/profile.jpg?raw=true" alt="Profile image"/>
+  <img src="images/profile.jpg?raw=true" width='200' alt="Profile image"/>
 </p>
 
 ### About Me

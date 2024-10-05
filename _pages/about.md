@@ -28,13 +28,24 @@ I'm a research scientist at the Quantum Information Theory(QIT) group at IISER(T
   </div>
 </div>
 
-<p style="text-align:center;">
 
+
+
+
+
+
+<div>
+<div>
+<p style="text-align:center;">
+	
 {{% md %}}
 [Research](/_pages/Research.md) &emsp [Research](/_pages/Research.md) &nbsp [Research](/_pages/Research.md)
 {{% /md %}}
 
 </p>
+</div>
+</div>
+
 
 <div class="gallery" markdown=1>
 [Research](/_pages/Research.md) &emsp [Research](/_pages/Research.md) &nbsp [Research](/_pages/Research.md)

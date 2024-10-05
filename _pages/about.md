@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+# <p style="text-align:center;">Hi I'm Anantha.</p>
+
 ### About Me
 
 Hi, my name is Anantha Krishnan Sunilkumar, a Physics research scientist at the Quantum Information Theory(QIT) group at IISER(TVM) colloborating with Prof. Anil Shaji(QIT group) and Prof. Debashis Saha(Quantum Foundations Group). I recieved my Bachelor's and Master's as an integrated degree student in 2023 advised by Prof. Anil Shaji from the Indian Institute of Science Education and Research Thiruvananthapuram with strong expertise in Quantum Information Theory and Machine Learning.

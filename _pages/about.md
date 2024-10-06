@@ -32,6 +32,12 @@ A few of my experiences and achievements [selected](/_pages/Research.md)
 
 Latest [Posts](/_pages/Research.md)
 
+st.markdown(
+    """More about my research <a style='display: block; text-align: center;' href="https://ananthrishna.github.io/">here</a>
+    """,
+    unsafe_allow_html=True,
+)
+
 ---
 ---
 

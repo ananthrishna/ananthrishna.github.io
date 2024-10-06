@@ -35,17 +35,21 @@ Latest [Posts](/_pages/Research.md)
 ---
 ---
 
-Posts 
-======
+<p style="text-align:center;font-size: 24px;">News</p>
 
+<p style="text-align:center;">
 How much structure is necessary for quantum computational speedup? - Scott Aaronson
+</p>
 
+<p style="text-align:center;">
 Been reading the fine print by Scott Aaronson
+</p>
 
+<p style="text-align:center;">
 Looking forward to the QM100 conference
+</p>
 
-Updates
-======
+<p style="text-align:center;font-size: 24px;">Updates</p>
 
 I joined as a Project Associate
 

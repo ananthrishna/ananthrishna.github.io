@@ -20,28 +20,20 @@ I'm a research scientist at IISER Trivandrum under Prof. Anil Shaji (QIT Group) 
 ---
 ---
 
-More about my research [here](/_pages/Research.md)
 
-Check out my [CV](/_pages/Research.md)
+<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/_pages/Research.md">More about my research here</a>
 
-[Publications and Research Theses](/_pages/Research.md) 
+<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/_pages/Research.md">Check out my CV</a>
 
-Relevant [Skills](/_pages/Research.md)
+<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/_pages/Research.md">Publications and Research Theses</a>
 
-A few of my experiences and achievements [selected](/_pages/Research.md)
+<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/_pages/Research.md">Relevant Skills</a>
 
-Latest [Posts](/_pages/Research.md)
+<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/_pages/Research.md">A few of my experiences and achievements selected</a>
+
+<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/_pages/Research.md">Latest Posts</a>
 
 
-
-
-st.markdown(
-    """<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/">here</a>
-    """,
-    unsafe_allow_html=True,
-)
-
-<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/">here</a>
 
 ---
 ---
@@ -62,18 +54,29 @@ Looking forward to the QM100 conference
 
 <p style="text-align:center;font-size: 24px;">Updates</p>
 
+<p style="text-align:center;">
 I joined as a Project Associate
+</p>
 
+<p style="text-align:center;">
 I attended the QCMC24 and presented my paper, Dr. Manik Banik, Dr. Ananda G Maity, Prof. Sibashis, Prof. Carol, Prof. Elham Kashefi, Prof. Mark Wilde it was fun talking and getting to know everyone. Wonderful organizing commitee
+</p>
 
+<p style="text-align:center;">
 I am finishing my work with the GNN in network 
+</p>
 
+<p style="text-align:center;">
 I recieved the fellowship for ..
+</p>
 
+<p style="text-align:center;">
 I recieved the prestigious Chanalya fellowship
+</p>
 
+<p style="text-align:center;">
 I graduated my Bachelors and Masters Integrated Research Degree from IISER Thiruvanathapuram. Many many thanks to Prof. Anil aShaji and Dr. Debashsi Saha and our wonderful quantum information theory group. My specialization is in Quantum Information Theory and Machine Learning.
-
+</p>
 
 Research Interest
 ======

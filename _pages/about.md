@@ -24,16 +24,40 @@ More about my research [here](/_pages/Research.md)
 
 Check out my [CV](/_pages/Research.md)
 
-A few of my experiences and achievements [selected](/_pages/Research.md)
+[Publications and Research Theses](/_pages/Research.md) 
 
 Relevant [Skills](/_pages/Research.md)
 
-[Publications and Research Theses](/_pages/Research.md) 
+A few of my experiences and achievements [selected](/_pages/Research.md)
 
 Latest [Posts](/_pages/Research.md)
 
 ---
 ---
+
+Posts 
+======
+
+How much structure is necessary for quantum computational speedup? - Scott Aaronson
+
+Been reading the fine print by Scott Aaronson
+
+Looking forward to the QM100 conference
+
+Updates
+======
+
+I joined as a Project Associate
+
+I attended the QCMC24 and presented my paper, Dr. Manik Banik, Dr. Ananda G Maity, Prof. Sibashis, Prof. Carol, Prof. Elham Kashefi, Prof. Mark Wilde it was fun talking and getting to know everyone. Wonderful organizing commitee
+
+I am finishing my work with the GNN in network 
+
+I recieved the fellowship for ..
+
+I recieved the prestigious Chanalya fellowship
+
+I graduated my Bachelors and Masters Integrated Research Degree from IISER Thiruvanathapuram. Many many thanks to Prof. Anil aShaji and Dr. Debashsi Saha and our wonderful quantum information theory group. My specialization is in Quantum Information Theory and Machine Learning.
 
 
 Research Interest

@@ -53,6 +53,17 @@ I'm a research scientist at the Quantum Information Theory(QIT) group at IISER(T
 | [Research](/_pages/Research.md)      | [Research](/_pages/Research.md) |
 | ----------- | ----------- |
 
+
+
+<table>
+  <tr>
+    <td>[Research](/_pages/Research.md)</td>
+    <td>[Research](/_pages/Research.md)</td>
+    <td>[Research](/_pages/Research.md)</td>
+  </tr>
+</table>
+
+
 ---
 
 ### Research Interest

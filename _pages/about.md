@@ -31,8 +31,6 @@ I'm a research scientist at IISER Trivandrum under Prof. Anil Shaji (QIT Group) 
 
 <a style='display: block; text-align: center;' href="https://ananthrishna.github.io/Publications/">A few of my experiences and achievements selected</a>
 
-<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/Publications/">Latest Posts</a>
-
 
 
 ---

@@ -11,7 +11,7 @@ redirect_from:
   <img src="images/profilenew.jpg?raw=true" width='240' alt="Profile image"/>
 </p>
 
-<p style="text-align:center;font-size: 44px;">Hi I'm Anantha Krishnan (Thrish)</p>
+<p style="text-align:center;font-size: 44px;">Hi I'm Anantha (Thrish)</p>
 
 <p style="text-align:center;"> 
 I'm a research scientist at the Quantum Information Theory(QIT) group at IISER(TVM) colloborating with Prof. Anil Shaji(QIT group) and Prof. Debashis Saha(Quantum Foundations Group). I recieved my Bachelor's and Master's as an integrated degree student in 2023 advised by Prof. Anil Shaji from the Indian Institute of Science Education and Research Thiruvananthapuram with strong expertise in Quantum Information Theory and Machine Learning, where I explored Genuine network nonlocality. I continued as a Chanakya Fellowship fellow on the same and I am currently a Project Associate at IISER working on foundation concepts and general computational advantages that can bring exponential speedup to quantum machine learning algorithms.<br /><br />My main research interest is on Learning, my exiting works revolve around using learning algorithms to understand quantum syatems. Now I am looking forward to use the foundations of quantum computing and machine learning theory to build better quantum learning algorithms. My interest also extends to nature inspired metaheursitic algorithms and theoretical neuroscience.
@@ -40,7 +40,9 @@ I'm a research scientist at the Quantum Information Theory(QIT) group at IISER(T
 
 
 <p style="text-align:center;">
-<div class="gallery" markdown=1>[Research](/_pages/Research.md)</div>
+	
+<div class="gallery" markdown=1>[Research](/_pages/Research.md)</div><div class="gallery" markdown=1>[Research](/_pages/Research.md)</div><div class="gallery" markdown=1>[Research](/_pages/Research.md)</div>
+
 </p>
 
 

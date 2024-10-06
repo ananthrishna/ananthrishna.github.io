@@ -45,6 +45,11 @@ I'm a research scientist at the Quantum Information Theory(QIT) group at IISER(T
 
 </p>
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 | [Research](/_pages/Research.md)      | [Research](/_pages/Research.md) |
 | ----------- | ----------- |
 

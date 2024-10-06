@@ -20,11 +20,15 @@ I'm a research scientist at IISER Trivandrum under Prof. Anil Shaji (QIT Group) 
 ---
 ---
 
-Check out my Research [here](/_pages/Research.md)
+More about my research [here](/_pages/Research.md)
+
+Check out my [CV](/_pages/Research.md)
 
 A few of my experiences and achievements [selected](/_pages/Research.md)
 
 Relevant [Skills](/_pages/Research.md)
+
+[Publications and Research Theses](/_pages/Research.md) 
 
 Latest [Posts](/_pages/Research.md)
 

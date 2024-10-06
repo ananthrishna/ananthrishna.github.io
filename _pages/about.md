@@ -13,7 +13,7 @@ redirect_from:
 
 <p style="text-align:center;font-size: 32px;">Hi I'm Anantha (Thrish)</p>
 
-<p style="text-align:center;"> 
+<p style="text-align:justify;"> 
 I'm a research scientist at IISER Thiruvananthapuram with Prof. Anil Shaji (QIT Group) and Prof. Debashis Saha (Quantum Foundations Group). I recieved my Bachelor's and Master's as an integrated degree student in 2023 advised by Prof. Anil Shaji from the Indian Institute of Science Education and Research Thiruvananthapuram with strong expertise in Quantum Information Theory and Machine Learning, with my final year specialising in Quantum network correlations. I continued as a Chanakya Fellowship fellow at IISER where I found fascianting results on the nature of Genuine Network Nonlocality. I am currently a Project Associate at IISER working on how foundations and general computational advantages can bring exponential speedup to quantum machine learning algorithms.<br /><br />My main research interest is on Learning, my existing works revolve around using learning algorithms to understand quantum syatems. Now I am looking into using foundations of quantum computational advantages and machine learning theory to build better quantum learning algorithms. My interest also extends to nature inspired metaheursitic learning algorithms and how both natural and artifical learning can be integrated.
 </p>
 

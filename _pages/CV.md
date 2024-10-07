@@ -7,7 +7,7 @@ author_profile: true
 
 
 CV
-
+[CV](/files/CV.pdf) 
 
 
 Coursework

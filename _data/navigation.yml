@@ -4,27 +4,17 @@ main:
   - title: "CV"
     url: /files/CV.pdf
 
-  - title: "Statement of Purpose"
-    url: /Portfolio/
+  - title: "My research"
+    url: /My research/
 
   - title: "Publications"
     url: /Publications/
 
-  - title: "Coursework, Workshops and Conferences"
-    url: /School/
+  - title: "Talks & Conferences"
+    url: /Talks & Conferences/
 
-  - title: "Research Blog"
-    url: /Research/
-
-  - title: "Personal Blog"
-    url: /Personal/
-
-  - title: "Masters thesis" 
-    url: /MastersThesis/
-
-  - title: "Minor thesis" 
-    url: /MinorThesis/
-
+  - title: "Skills & Awards" 
+    url: /Skills & Awards/
 
 
 Comment: >

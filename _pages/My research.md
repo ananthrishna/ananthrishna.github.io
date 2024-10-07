@@ -29,3 +29,6 @@ I am interested in the Quantum causal structure approaches to study these correl
 
 Furthermore, I really honed my skills with Quantum softwares such as Qiskit, Circ, Pennylane, etc. I am experienced with using Tensor Networks such as Matrix Product states on the software. I have also build my experience with Quantum Circuits, Algorithms and Gates, and as part of of this I am experienced with Quantum Machine Learning(qNN, qGAN, qAutoEncoders, etc).
 
+
+Current Research Works
+======

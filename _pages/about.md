@@ -25,11 +25,13 @@ I'm a research scientist at IISER Trivandrum under Prof. Anil Shaji (QIT Group) 
 
 <a style='display: block; text-align: center;' href="https://ananthrishna.github.io/Publications/">Check out my CV</a>
 
+<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/Publications/">Selected Projects & Experiences</a>
+
 <a style='display: block; text-align: center;' href="https://ananthrishna.github.io/Publications/">Publications and Research Theses</a>
 
-<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/Publications/">Relevant Skills</a>
+<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/Publications/">Relevant Skills & Awards</a>
 
-<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/Publications/">A few of my experiences and achievements selected</a>
+<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/Publications/">Talks & Conferences</a>
 
 
 

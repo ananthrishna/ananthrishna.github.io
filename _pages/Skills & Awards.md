@@ -33,3 +33,9 @@ Skills
 • Biological and Chemical system illustration using Blender 
 • Experienced in using finesse and Pygwinc packages and used it in a project in Build a Detector Workshop, LIGO-India 
 • Intel One API, MPI, SLurm batch script, GCC
+
+
+
+
+Awards
+======

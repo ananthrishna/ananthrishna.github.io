@@ -6,12 +6,10 @@ author_profile: true
 ---
 
 
-CV
-[CV](/files/CV.pdf) 
+CV [pdf](/files/CV.pdf) 
 
 
 Coursework
 
 
-
-Academic Cover Letter
+[Academic Cover Letter](/files/Cover.md) 

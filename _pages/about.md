@@ -36,7 +36,7 @@ I'm a research scientist at IISER Trivandrum under Prof. Anil Shaji (QIT Group) 
 ---
 ---
 
-<p style="text-align:center;font-size: 24px;">News</p>
+<p style="text-align:center;font-size: 24px;"><b>What's interesting?</b></p>
 
 <p style="text-align:center;">
 How much structure is necessary for quantum computational speedup? - Scott Aaronson
@@ -50,7 +50,7 @@ Been reading the fine print by Scott Aaronson
 Looking forward to the QM100 conference
 </p>
 
-<p style="text-align:center;font-size: 24px;">Updates</p>
+<p style="text-align:center;font-size: 24px;"><b>What's been going on?</b></p>
 
 <p style="text-align:center;">
 I joined as a Project Associate

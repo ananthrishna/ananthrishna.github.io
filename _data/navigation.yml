@@ -2,7 +2,7 @@
 main:
 
   - title: "CV"
-    url: /files/CV.pdf
+    url: /CV/
 
   - title: "My research"
     url: /My research/

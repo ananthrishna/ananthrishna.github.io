@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Talks & Conferences"
 permalink: /Talks & Conferences/
 author_profile: true
 ---
 
+<p style="text-align:center;font-size: 32px;">Talks & Conferences</p>
 
 Conferences
 ======

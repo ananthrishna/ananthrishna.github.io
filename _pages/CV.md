@@ -8,11 +8,11 @@ author_profile: true
 
 CV
 =====
-[pdf](/files/CV.pdf) 
+[PDF](/files/CV.pdf) 
 
 Academic Cover Letter
 =====
-[Academic Cover Letter](/files/Cover.md) 
+[PDF](/files/Cover.md) 
 
 Awards
 ======

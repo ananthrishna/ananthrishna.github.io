@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Projects"
 permalink: /Projects/
 author_profile: true
 ---
 
+<p style="text-align:center;font-size: 32px;">Projects</p>
 
 Selected Experiences
 ======

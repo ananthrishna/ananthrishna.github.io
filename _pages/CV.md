@@ -6,10 +6,13 @@ author_profile: true
 
 <p style="text-align:center;font-size: 32px;">Curriculum Vitae</p>
 
-CV [pdf](/files/CV.pdf) 
+CV
+=====
+[pdf](/files/CV.pdf) 
 
 
 Coursework
+=====
 • Courses on Classical, Statistical, and Quantum
 Mechanics, courses on Condensed matter
 physics, Electrodynamics with Special and
@@ -26,5 +29,6 @@ Learning, Probability and Statistics, Advanced
 Mathematical methods, and Data and Statistical
 Models in Astronomy.
 
-
+Academic Cover Letter
+=====
 [Academic Cover Letter](/files/Cover.md) 

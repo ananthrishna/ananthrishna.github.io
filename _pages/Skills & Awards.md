@@ -39,11 +39,11 @@ Skills
 Awards
 ======
 
-- Integrated BS-MS Dual Degree in Physical Sciences with Data Science Minor (IISER Thiruvananthapuram)
+- Integrated BS-MS Dual Degree in Physical Sciences with Data Science Minor - IISER Thiruvananthapuram, India
 
-- Chanakya PG Fellowship (I-HUB Quantum Technology Foundation)
+- Chanakya PG Fellowship - I-HUB Quantum Technology Foundation, Department of Science and Technology, India
 
-- Project Associate - I (IISER Thiruvananthapuram)
+- Project Associate - I - IISER Thiruvananthapuram, India
 
 - TOEFL iBT Score - 101
 

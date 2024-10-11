@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Skills & Awards"
 permalink: /Skills & Awards/
 author_profile: true
 ---
 
-
+<p style="text-align:center;font-size: 32px;">Skills & Awards</p>
 
 Skills
 ======

@@ -9,6 +9,8 @@ author_profile: true
 Conferences
 ======
 
+- Presented my work at the 24th International Conference on Quantum Communication, Measurement and Computing (QCMC24) at IIT Madras, Chennai.
+- Been selected for the International conference on Foundations of Quantum Mechanics (QM100) on occasion of a century of Quantum Mechanics at IISER Kolkata
 - Presented my work on Quantum Network Nonlocality using Machine learning at the Frontier Symposium Physics 2024 in IISER Thiruvananthapuram.
 - Qiskit Global Summer School (QGSS) 2021, 2022, 2023 on Quantum Machine Learning, Quantum Simulation and Algorithms, and Theory to Implementation.
 - Participated in Hackathon - Datathon IndoML 2023

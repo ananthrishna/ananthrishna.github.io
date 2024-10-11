@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "My research"
 permalink: /My research/
 author_profile: true
 ---
 
-
+<p style="text-align:center;font-size: 32px;">My Research</p>
 
 Research Interest
 ======

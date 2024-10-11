@@ -10,6 +10,22 @@ CV
 =====
 [pdf](/files/CV.pdf) 
 
+Academic Cover Letter
+=====
+[Academic Cover Letter](/files/Cover.md) 
+
+Awards
+======
+
+- Integrated BS-MS Dual Degree in Physical Sciences with Data Science Minor - IISER Thiruvananthapuram, India
+
+- Chanakya PG Fellowship - I-HUB Quantum Technology Foundation, Department of Science and Technology, India
+
+- Project Associate - I - IISER Thiruvananthapuram, India
+
+- TOEFL iBT Score - 101
+
+- Qiskit Quantum Excellence Award
 
 Coursework
 =====
@@ -29,6 +45,4 @@ Learning, Probability and Statistics, Advanced
 Mathematical methods, and Data and Statistical
 Models in Astronomy.
 
-Academic Cover Letter
-=====
-[Academic Cover Letter](/files/Cover.md) 
+

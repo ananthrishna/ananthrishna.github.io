@@ -39,3 +39,17 @@ Skills
 
 Awards
 ======
+
+Integrated BS-MS Dual Degree in Physical Sciences with Data Science Minor
+IISER Thiruvananthapuram
+
+Chanakya PG Fellowship
+I-HUB Quantum Technology Foundation
+
+Project Associate - I
+IISER Thiruvananthapuram
+
+TOEFL iBT Score - 101
+
+Qiskit Quantum Excellence Award
+

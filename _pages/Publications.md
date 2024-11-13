@@ -1,3 +1,10 @@
+---
+layout: archive
+permalink: /Publications/
+author_profile: true
+---
+
+<p style="text-align:center;font-size: 32px;">Publications</p>
 
 
 ## Conference Papers

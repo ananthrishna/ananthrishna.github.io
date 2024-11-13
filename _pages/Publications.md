@@ -13,6 +13,7 @@ Poster presentation on "Is Genuine Network Nonlocality exclusive to Pure States"
 
 Poster presentation on Quantum Network Nonlocality using LHV-Neural Network Models - Presented at Frontier Symposium Physics 2024 at IISER Thiruvananthapuram, Kerala, India.
 
+
 ## Publications/Manuscript
 
 

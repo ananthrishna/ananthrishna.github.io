@@ -1,64 +1,48 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+permalink: /CV/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+<p style="text-align:center;font-size: 32px;">Curriculum Vitae</p>
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+CV
+=====
+[PDF](/files/CV.pdf) 
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Academic Cover Letter
+=====
+[PDF](/files/Cover.md) 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Awards
+======
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Integrated BS-MS Dual Degree in Physical Sciences with Data Science Minor - IISER Thiruvananthapuram, India
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Chanakya PG Fellowship - I-HUB Quantum Technology Foundation, Department of Science and Technology, India
+
+- Project Associate - I - IISER Thiruvananthapuram, India
+
+- TOEFL iBT Score - 101
+
+- Qiskit Quantum Excellence Award
+
+Coursework
+=====
+• Courses on Classical, Statistical, and Quantum
+Mechanics, courses on Condensed matter
+physics, Electrodynamics with Special and
+General theories of relativity, Atomic and
+molecular physics, and High energy physics.
+
+• Advanced courses on Quantum Information
+Theory, Quantum Foundations, Quantum Field
+Theory, and Quantum Many-Body Theories.
+
+• Courses on Computational Techniques and
+Programming languages, Introduction to Machine
+Learning, Probability and Statistics, Advanced
+Mathematical methods, and Data and Statistical
+Models in Astronomy.
+
+

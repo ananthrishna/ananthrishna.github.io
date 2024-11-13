@@ -1,15 +1,6 @@
----
-layout: archive
-permalink: /Publications/
-author_profile: true
----
 
-<p style="text-align:center;font-size: 32px;">Publications</p>
 
 ## Conference Papers
-
-Poster presentation on "Is Genuine Network Nonlocality exclusive to Pure States" - Presented at the 24th International Conference on Quantum Communication, Measurment and Computing at IIT Madras, Chennai, India.
-[Download PDF](/files/QNN_QCMC_Poster.pdf)
 
 Poster presentation on Quantum Network Nonlocality using LHV-Neural Network Models - Presented at Frontier Symposium Physics 2024 at IISER Thiruvananthapuram, Kerala, India.
 

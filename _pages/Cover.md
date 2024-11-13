@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Portfolio"
 permalink: /Portfolio/
 author_profile: true
 ---
 
+<p style="text-align:center;font-size: 32px;">Academic Cover Letter</p>
 
 My name is Anantha Krishnan, and I hold a Bachelor’s and Master’s integrated dual degree from the Indian Institute of Science Education and Research (IISER) Thiruvananthapuram, with a strong specialization in Quantum Information Theory and Machine Learning. Currently, I am a Project Associate at IISER, where my research focuses on learning quantum resources through both analytical and numerical algorithms and reciprocally I aim improve these algorithms using these physical resources. My research aims to bridge quantum computing with foundations of quantum mechanics, bringing together quantum information, math and machines to discover new facets of complex physical systems. 
 

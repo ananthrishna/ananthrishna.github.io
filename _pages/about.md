@@ -66,9 +66,6 @@ I attended the QCMC24 and presented my paper, Dr. Manik Banik, Dr. Ananda G Mait
 I am finishing my work with the GNN in network 
 </p>
 
-<p style="text-align:center;">
-I recieved the fellowship for ..
-</p>
 
 <p style="text-align:center;">
 I recieved the prestigious Chanalya fellowship

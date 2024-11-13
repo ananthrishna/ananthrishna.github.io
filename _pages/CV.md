@@ -12,7 +12,8 @@ CV
 
 Academic Cover Letter
 =====
-[PDF](/files/Cover.md) 
+[Markdown File](/files/Cover.md)
+[PDF](/files/Academic_Cover_Letter.pdf) 
 
 Awards
 ======

@@ -8,7 +8,7 @@ Poster presentation on Quantum Network Nonlocality using LHV-Neural Network Mode
 
 ## Publications/Manuscript
 
-### Quantum Network Nonlocality with X States
+### Is Genuine network Nonlocality exclusive to Pure States
 
 A manuscript based on the work done is being prepared, for updates, please check here.
 

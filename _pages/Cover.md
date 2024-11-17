@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Portfolio/
+permalink: /Cover/
 author_profile: true
 ---
 

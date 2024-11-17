@@ -21,17 +21,17 @@ I'm a research scientist at IISER Trivandrum under Prof. Anil Shaji (QIT Group) 
 ---
 
 
-<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/Publications/">More about my research here</a>
+<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/My research/">More about my research here</a>
 
-<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/Publications/">Check out my CV</a>
+<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/CV/">Check out my CV</a>
 
-<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/Publications/">Selected Projects & Experiences</a>
+<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/Projects/">Selected Projects & Experiences</a>
 
 <a style='display: block; text-align: center;' href="https://ananthrishna.github.io/Publications/">Publications and Research Theses</a>
 
-<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/Publications/">Relevant Skills & Awards</a>
+<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/Skills & Awards/">Relevant Skills & Awards</a>
 
-<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/Publications/">Talks & Conferences</a>
+<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/Talks & Conferences/">Talks & Conferences</a>
 
 
 
@@ -43,6 +43,7 @@ I'm a research scientist at IISER Trivandrum under Prof. Anil Shaji (QIT Group) 
 <p style="text-align:center;">
 How much structure is necessary for quantum computational speedup? - Scott Aaronson
 </p>
+[Here](_posts/2012-08-14-blog-post-1.md)
 
 <p style="text-align:center;">
 Been reading the fine print by Scott Aaronson

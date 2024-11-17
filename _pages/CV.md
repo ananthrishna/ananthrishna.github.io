@@ -12,7 +12,7 @@ CV
 
 Academic Cover Letter
 =====
-[Letter](/_pages/Cover.md) 
+[Letter](/Cover/) 
 [PDF](/files/Academic_Cover_Letter.pdf) 
 
 Awards

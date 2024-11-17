@@ -44,7 +44,7 @@ I'm a research scientist at IISER Trivandrum under Prof. Anil Shaji (QIT Group) 
 How much structure is necessary for quantum computational speedup? - Scott Aaronson
 </p>
 [Here](_posts/2012-08-14-blog-post-1.md)
-
+/posts/2012/08/blog-post-1/
 <p style="text-align:center;">
 Been reading the fine print by Scott Aaronson
 </p>

@@ -29,7 +29,7 @@ Coming to outreach, I was part of the Humanities Collective and Cultural Society
 
 Sincerely,
 
-Anantha Krishnan Sunilkumar 
+Anantha Krishnan Sunilkumar \\
 [Portfolio](https://ananthrishna.github.io/) | 
 [Institute email](mailto:ananthakrishnan18@iisertvm.ac.in) | [Personal email](mailto:readatanantha@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ananthrishna)
 

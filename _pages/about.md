@@ -40,20 +40,24 @@ I'm a research scientist at IISER Trivandrum under Prof. Anil Shaji (QIT Group) 
 
 <p style="text-align:center;font-size: 24px;"><b>Musing's I find interesting</b></p>
 
-<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/posts/2012/08/blog-post-1/">How much structure is necessary for quantum computational speedup? - Scott Aaronson</a>
+<a style='display: block; text-align: center;' href="https://ananthrishna.github.io/posts/2012/08/blog-post-1/">Can we cross-fertilise ideas from foundations of quantum mechanics and machine learning theory to benefit applications in quantum technology - quantum computation, cryptography, simulation. How?</a>
 
 <p style="text-align:center;">
-Been reading the fine print by Scott Aaronson
+Classical machine learning greatly supports in understanding quantum nature, is it time yet for its quantum counterpart to enter the picture, or is all research on quantum machine learning basically laying the foundation for the future. Then what in both of these is greatly playing a role in research? How we can learn? and why is it important to understand that? (Not the application of using a ML technique in the quantum field, but what comes before the technique where we show how we can learn this subject, ofcourse the application is incredibly fun, but there is a fundamental connection between applications when we look at how we can learn something and not just applying)
 </p>
 
 <p style="text-align:center;">
-Looking forward to the QM100 conference
+Quantum machine learning is really exciting, but am I missing the greater picture and potential of "learning" theory and algorithm in all the excitement. As a matter of fact ml for quantum computing is incredibly fun but takes the non-standard approach in QML. And all the incredible we can uncover in condensed matter physics is so much fun. So its important to see the practical results also and not just the complex rabbit hole of methodology. So how do I draw the line between impactful research and exciting research?  
 </p>
 
 <p style="text-align:center;font-size: 24px;"><b>How's it been?</b></p>
 
 <p style="text-align:center;">
-I joined as a Project Associate
+Looking forward to the QM100 Conference on Foundations oF Quantum Mechanics at IISER Kolkata 
+</p>
+
+<p style="text-align:center;">
+I joined as a Project Associate-I at IISER Thiruvananthapuram under the advice of Dr. Debashis Saha and Prof. Anil Shaji
 </p>
 
 <p style="text-align:center;">
@@ -61,16 +65,16 @@ I attended the QCMC24 and presented my paper, Dr. Manik Banik, Dr. Ananda G Mait
 </p>
 
 <p style="text-align:center;">
-I am finishing my work with the GNN in network 
+I am finishing my work with the GNN in network succesfully developing a noise robust proof for complex quantum structures. 
 </p>
 
 
 <p style="text-align:center;">
-I recieved the prestigious Chanalya fellowship
+I recieved the prestigious Chanakya PG fellowship from I-HUB Quantum Technology Foundation for my work with Prof. Anil Shaji and Dr. Debashis Saha on Genuine Network Nonlocality in Quantum Multipartite Network Systems
 </p>
 
 <p style="text-align:center;">
-I graduated my Bachelors and Masters Integrated Research Degree from IISER Thiruvanathapuram. Many many thanks to Prof. Anil aShaji and Dr. Debashsi Saha and our wonderful quantum information theory group. My specialization is in Quantum Information Theory and Machine Learning.
+I graduated my Bachelors and Masters Integrated Research Degree from IISER Thiruvanathapuram. Many many thanks to Prof. Anil Shaji and Dr. Debashis Saha and our wonderful quantum information theory group. My specialization is in Quantum Information Theory and Machine Learning. My work specifically focused on creating a LHV Neural network model for exploring Quantum correlations in Quantum Bell experiments
 </p>
 
 

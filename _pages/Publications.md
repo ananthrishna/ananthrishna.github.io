@@ -26,7 +26,7 @@ Genuine network non-locality (GNN) refers to the existence of quantum correlatio
 ### Masters Thesis - Quantum Network Nonlocality
 
 [Masters Thesis](/files/MastersThesis.md) 
-[Download PDF](/files/Master's%20Thesis.pdf)
+[Download PDF](/files/Masters_Thesis.pdf)
 
 ### Minor Thesis - Superadditivity of Coherent Information in Noisy Quantum Channels
 
@@ -35,4 +35,4 @@ Abstract
  Machine learning has greatly improved the attainability of solutions when it comes to challenging problems such as those in fundamental research. Here, we use machine learning to tackle a quantum information scenario. Quantum channels exhibit a convenient property called superadditivity which can improve transmission rates in quantum information channels. In this work we found quantum states expressing Superadditivity using neural network variational ansatz and optimization algorithms; through this we explored the usefulness of using neural network as a variational state ansatz for representing Quantum qubit states in the context of quantum information-processing tasks, and also the efficiency of using different optimization algorithms to find the better case. (a) Neural network states yield quantum codes with a high Coherent-information for Qubit pauli channels, Dephrasure channel and De polarizing channel; such codes have proven to outperform all other known codes for these channels. (b) It has also been shown that the quantum codes for single channel cases were given by repetition codes. (c) Using genetic algorithm has proved to be more effective than using simple gradient-based methods for optimizing the neural network ansatz representing the states.
 
 [Minor Thesis](/files/MinorThesis.md) 
-
+[Download PDF](/files/Minor_Thesis.pdf)

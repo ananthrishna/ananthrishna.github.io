@@ -7,21 +7,24 @@ author_profile: true
 <p style="text-align:center;font-size: 32px;">Publications</p>
 
 
+## Publications/Manuscript
+
+### Is genuine network nonlocality exclusive to pure states?
+
+A preprint on the work has been submitted to arxiv: https://arxiv.org/abs/2501.08079
+
+Abstract
+
+Genuine network non-locality (GNN) refers to the existence of quantum correlations in a network with independent sources that cannot be explained by local hidden-variables (LHV) models. Even in the simplest scenario, determining whether these quantum correlations remain genuinely network non-local when derived from entangled states that deviate from their ideal forms is highly challenging due to the non-convex nature of local correlations. Understanding the boundary of these correlations thus becomes a hard problem, but one that raises academic interest specifically its robustness to noise. To address this problem, we introduce a causal domain-informed learning algorithm called the LHV $k$-rank Neural Network, which assesses the rank parameter of the non-ideal combined state produced by sources. Applied to the triangle network scenario with the three sources generating a class of quantum states known as $X$ states, the neural network reveals that nonlocality persists only if the states remain pure. Remarkably, we find that even slight deviations from ideal Bell states due to noise cause GNN to vanish, exhibiting a discrete behavior that hasn't been witnessed in the standard bell scenario. This finding thus raises a fundamental question of whether GNN in the triangle network is exclusive to pure states or not. Additionally, we explore the case of the three sources producing dissimilar states, indicting GNN requires all its sources to send pure entangled states with joint entangled measurements as resources. Apart from these results the work succeeds in showing that machine learning approaches with domain specific constraints can greatly benefit the field of quantum foundations.
+
+Code Availability: Check here https://github.com/ananthrishna/GNN-LHV-k-triangle
+
 ## Conference Papers
 
 Poster presentation on “Is Genuine Network Nonlocality exclusive to Pure States” - Presented at the 24th International Conference on Quantum Communication, Measurment and Computing at IIT Madras, Chennai, India. [Download PDF](/files/QNN_QCMC_Poster.pdf) 
 
 Poster presentation on Quantum Network Nonlocality using LHV-Neural Network Models - Presented at Frontier Symposium Physics 2024 at IISER Thiruvananthapuram, Kerala, India.
 
-## Publications/Manuscript
-
-### Is genuine network nonlocality exclusive to pure states
-
-A manuscript based on the work done is being prepared, for updates, please check here.
-
-Abstract
-
-Genuine network non-locality (GNN) refers to the existence of quantum correlations in a network with independent sources that cannot be explained by local hidden-variables (LHV) models. Even in the simplest scenario, determining whether these quantum correlations remain genuinely network non-local when derived from entangled states that deviate from their ideal forms is highly challenging due to the non-convex nature of local correlations. Understanding the boundary of these correlations thus becomes a hard problem, but one that raises academic interest specifically its robustness to noise. To address this problem, we introduce a causal domain-informed learning algorithm called the LHV $k$-rank Neural Network, which assesses the rank parameter of the non-ideal combined state produced by sources. Applied to the triangle network scenario with the three sources generating a class of quantum states known as $X$ states, the neural network reveals that nonlocality persists only if the states remain pure. Remarkably, we find that even slight deviations from ideal Bell states due to noise cause GNN to vanish, exhibiting a discrete behavior that hasn't been witnessed in the standard bell scenario. This finding thus raises a fundamental question of whether GNN in the triangle network is exclusive to pure states or not. Additionally, we explore the case of the three sources producing dissimilar states, indicting GNN requires all its sources to send pure entangled states with joint entangled measurements as resources. Apart from these results the work succeeds in showing that machine learning approaches with domain specific constraints can greatly benefit the field of quantum foundations.
 
 ### Masters Thesis - Quantum Network Nonlocality
 

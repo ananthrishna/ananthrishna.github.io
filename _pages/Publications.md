@@ -9,6 +9,8 @@ author_profile: true
 
 ## Publications/Manuscript
 
+Google Scholar page - check here https://scholar.google.com/citations?user=MbzKpYsAAAAJ&hl=en&oi=ao
+
 ### Is genuine network nonlocality exclusive to pure states?
 
 A preprint on the work has been submitted to arxiv: https://arxiv.org/abs/2501.08079
